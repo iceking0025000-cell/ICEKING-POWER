@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ICEPOWER</string>
+    <string name="battery_transfer">Battery Transfer</string>
+    <string name="share_power">Share Power</string>
+    <string name="receive_power">Receive Power</string>
+    <string name="connect_device">Connect Device</string>
+    <string name="local_battery">Local Battery</string>
+    <string name="partner_battery">Partner Battery</string>
+    <string name="transfer_target">Transfer Target</string>
+    <string name="system_battery_share">System Battery Share</string>
+    <string name="wireless_powershare">Wireless PowerShare</string>
+    <string name="transfer_history">Transfer History</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "ICEPOWER",
+  "description": "Simple and direct battery percentage sharing and transfer manager between Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
